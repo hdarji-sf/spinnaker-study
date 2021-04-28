@@ -15,7 +15,7 @@ spec:
     template:
         metadata:
             labels:
-                app: beautiful-voyage-temper-microservice
+                app: beautiful-voyage-microservice
                 run: beautiful-voyage-microservice
                 source: demo
         spec:
