@@ -5,6 +5,7 @@
 releaseType: stable
 image: beautiful-voyage-microservice
 ecr: 219099013464.dkr.ecr.us-west-2.amazonaws.com
+name: beautiful-voyage
 #replicaCount: 1
 #
 #image:
