@@ -23,7 +23,7 @@ spec:
                 -   image: 219099013464.dkr.ecr.us-west-2.amazonaws.com/beautiful-voyage-microservice
                     name: beautiful-voyage-microservice
                     ports:
-                        -   name: web2
+                        -   name: web
                             containerPort: 8080
 ---
 
